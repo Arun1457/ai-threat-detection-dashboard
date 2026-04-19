@@ -27,7 +27,7 @@ if time.time() - st.session_state['last_refresh'] > 5:
     st.rerun()
 
 # Paths
-PRED_CSV = "../data/predicted_combined_logs.csv"
+PRED_CSV = "data/predicted_combined_logs.csv"
 
 st.title("AI-Driven Unified Threat Detection Dashboard")
 
