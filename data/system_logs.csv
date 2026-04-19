@@ -1,0 +1,501 @@
+timestamp,component,event,severity,metric_value
+2025-10-15 09:10:02,Network,Failure,Critical,66.15
+2025-10-15 09:15:02,GPU,Overheating,Low,46.84
+2025-10-15 09:20:02,GPU,Usage spike,High,45.25
+2025-10-15 09:25:02,Memory,Usage spike,High,30.46
+2025-10-15 09:30:02,Network,Failure,High,66.88
+2025-10-15 09:35:02,GPU,Restart,High,43.78
+2025-10-15 09:40:02,CPU,Failure,Low,50.74
+2025-10-15 09:45:02,GPU,Update,Critical,88.69
+2025-10-15 09:50:02,Memory,Failure,Medium,40.83
+2025-10-15 09:55:02,Network,Failure,High,96.14
+2025-10-15 10:00:02,CPU,Restart,Medium,69.07
+2025-10-15 10:05:02,GPU,Overheating,Critical,34.13
+2025-10-15 10:10:02,Network,Usage spike,High,51.03
+2025-10-15 10:15:02,Memory,Usage spike,Medium,46.47
+2025-10-15 10:20:02,Memory,Update,High,45.12
+2025-10-15 10:25:02,Network,Usage spike,High,28.7
+2025-10-15 10:30:02,Memory,Update,Medium,51.68
+2025-10-15 10:35:02,Network,Failure,Low,42.7
+2025-10-15 10:40:02,GPU,Failure,High,57.46
+2025-10-15 10:45:02,Network,Update,Medium,71.24
+2025-10-15 10:50:02,GPU,Usage spike,Medium,82.82
+2025-10-15 10:55:02,Network,Usage spike,Medium,45.36
+2025-10-15 11:00:02,GPU,Restart,Medium,64.13
+2025-10-15 11:05:02,GPU,Update,Critical,40.07
+2025-10-15 11:10:02,GPU,Overheating,Medium,83.07
+2025-10-15 11:15:02,CPU,Restart,Medium,59.75
+2025-10-15 11:20:02,Memory,Update,Critical,58.78
+2025-10-15 11:25:02,GPU,Restart,Medium,35.9
+2025-10-15 11:30:02,Disk,Update,Critical,95.51
+2025-10-15 11:35:02,GPU,Restart,Low,95.16
+2025-10-15 11:40:02,Network,Usage spike,High,31.97
+2025-10-15 11:45:02,GPU,Usage spike,Low,44.46
+2025-10-15 11:50:02,GPU,Usage spike,Critical,92.08
+2025-10-15 11:55:02,Network,Update,Medium,46.16
+2025-10-15 12:00:02,Network,Update,High,87.67
+2025-10-15 12:05:02,GPU,Failure,Critical,46.53
+2025-10-15 12:10:02,Memory,Restart,Medium,71.11
+2025-10-15 12:15:02,GPU,Overheating,High,77.82
+2025-10-15 12:20:02,CPU,Usage spike,High,40.9
+2025-10-15 12:25:02,CPU,Failure,High,78.62
+2025-10-15 12:30:02,Network,Failure,Medium,57.18
+2025-10-15 12:35:02,Disk,Usage spike,Medium,95.54
+2025-10-15 12:40:02,CPU,Failure,Medium,54.85
+2025-10-15 12:45:02,Disk,Failure,Critical,57.65
+2025-10-15 12:50:02,Network,Overheating,Critical,67.98
+2025-10-15 12:55:02,Memory,Usage spike,Low,34.62
+2025-10-15 13:00:02,GPU,Overheating,Critical,91.84
+2025-10-15 13:05:02,Disk,Restart,High,31.14
+2025-10-15 13:10:02,Disk,Usage spike,Critical,69.17
+2025-10-15 13:15:02,Memory,Overheating,Low,63.09
+2025-10-15 13:20:02,Disk,Failure,Medium,29.52
+2025-10-15 13:25:02,Network,Restart,Low,40.04
+2025-10-15 13:30:02,Network,Failure,Low,69.85
+2025-10-15 13:35:02,Memory,Overheating,Low,58.5
+2025-10-15 13:40:02,Disk,Failure,Low,93.01
+2025-10-15 13:45:02,CPU,Restart,High,98.05
+2025-10-15 13:50:02,GPU,Update,Critical,62.49
+2025-10-15 13:55:02,CPU,Overheating,Medium,38.0
+2025-10-15 14:00:02,Disk,Update,Critical,93.77
+2025-10-15 14:05:02,Disk,Update,Critical,61.71
+2025-10-15 14:10:02,Disk,Failure,Medium,53.66
+2025-10-15 14:15:02,Network,Overheating,Medium,82.52
+2025-10-15 14:20:02,GPU,Overheating,Low,36.45
+2025-10-15 14:25:02,Network,Update,Critical,44.98
+2025-10-15 14:30:02,CPU,Update,Low,26.93
+2025-10-15 14:35:02,Network,Usage spike,High,49.52
+2025-10-15 14:40:02,Memory,Failure,Medium,99.71
+2025-10-15 14:45:02,Disk,Restart,Low,64.36
+2025-10-15 14:50:02,Network,Restart,Low,64.51
+2025-10-15 14:55:02,Memory,Usage spike,High,99.06
+2025-10-15 15:00:02,Memory,Restart,Critical,41.78
+2025-10-15 15:05:02,Network,Update,Low,73.21
+2025-10-15 15:10:02,Network,Usage spike,Low,58.65
+2025-10-15 15:15:02,CPU,Failure,Medium,93.78
+2025-10-15 15:20:02,GPU,Overheating,Critical,54.14
+2025-10-15 15:25:02,Memory,Update,Medium,98.44
+2025-10-15 15:30:02,Disk,Restart,High,28.15
+2025-10-15 15:35:02,CPU,Overheating,Medium,25.22
+2025-10-15 15:40:02,Network,Update,High,26.71
+2025-10-15 15:45:02,Memory,Usage spike,Low,29.18
+2025-10-15 15:50:02,CPU,Update,Low,66.28
+2025-10-15 15:55:02,Network,Overheating,Medium,73.39
+2025-10-15 16:00:02,Disk,Failure,Low,57.02
+2025-10-15 16:05:02,Network,Update,Critical,91.13
+2025-10-15 16:10:02,GPU,Failure,Medium,92.82
+2025-10-15 16:15:02,Disk,Failure,High,41.13
+2025-10-15 16:20:02,Network,Failure,High,84.9
+2025-10-15 16:25:02,Disk,Overheating,Medium,40.62
+2025-10-15 16:30:02,Network,Overheating,High,35.48
+2025-10-15 16:35:02,Network,Overheating,High,24.08
+2025-10-15 16:40:02,Disk,Usage spike,Critical,66.84
+2025-10-15 16:45:02,GPU,Usage spike,High,46.68
+2025-10-15 16:50:02,Disk,Failure,Low,99.28
+2025-10-15 16:55:02,GPU,Update,Medium,47.81
+2025-10-15 17:00:02,Memory,Update,Low,58.29
+2025-10-15 17:05:02,Disk,Restart,Critical,86.46
+2025-10-15 17:10:02,Network,Usage spike,Critical,31.85
+2025-10-15 17:15:02,CPU,Usage spike,High,30.41
+2025-10-15 17:20:02,GPU,Failure,High,93.14
+2025-10-15 17:25:02,Network,Failure,Critical,60.87
+2025-10-15 17:30:02,GPU,Overheating,Low,27.26
+2025-10-15 17:35:02,CPU,Failure,High,45.78
+2025-10-15 17:40:02,CPU,Update,Medium,49.06
+2025-10-15 17:45:02,GPU,Usage spike,Medium,96.42
+2025-10-15 17:50:02,Network,Overheating,High,66.2
+2025-10-15 17:55:02,Disk,Failure,Critical,88.28
+2025-10-15 18:00:02,Network,Update,Medium,36.85
+2025-10-15 18:05:02,Network,Overheating,Low,83.8
+2025-10-15 18:10:02,CPU,Failure,Critical,73.12
+2025-10-15 18:15:02,Memory,Failure,Critical,40.19
+2025-10-15 18:20:02,CPU,Update,Critical,90.52
+2025-10-15 18:25:02,GPU,Update,High,83.89
+2025-10-15 18:30:02,Network,Overheating,Critical,24.56
+2025-10-15 18:35:02,CPU,Restart,Medium,67.77
+2025-10-15 18:40:02,Network,Overheating,High,55.74
+2025-10-15 18:45:02,GPU,Restart,Critical,58.87
+2025-10-15 18:50:02,CPU,Restart,Critical,88.31
+2025-10-15 18:55:02,Network,Update,Medium,32.99
+2025-10-15 19:00:02,Memory,Failure,Medium,58.42
+2025-10-15 19:05:02,GPU,Overheating,Medium,31.81
+2025-10-15 19:10:02,GPU,Failure,Low,34.26
+2025-10-15 19:15:02,CPU,Usage spike,Critical,44.06
+2025-10-15 19:20:02,Disk,Failure,Low,99.43
+2025-10-15 19:25:02,Network,Update,Low,53.03
+2025-10-15 19:30:02,Network,Usage spike,Critical,98.18
+2025-10-15 19:35:02,Disk,Update,Medium,42.35
+2025-10-15 19:40:02,Memory,Failure,Critical,65.98
+2025-10-15 19:45:02,Memory,Overheating,Low,65.29
+2025-10-15 19:50:02,CPU,Update,Low,91.05
+2025-10-15 19:55:02,Network,Overheating,Critical,89.75
+2025-10-15 20:00:02,Memory,Failure,Critical,84.23
+2025-10-15 20:05:02,CPU,Overheating,Critical,98.68
+2025-10-15 20:10:02,CPU,Overheating,Critical,75.68
+2025-10-15 20:15:02,GPU,Restart,Medium,60.64
+2025-10-15 20:20:02,Disk,Usage spike,High,33.14
+2025-10-15 20:25:02,GPU,Update,Low,65.75
+2025-10-15 20:30:02,Memory,Usage spike,Medium,85.5
+2025-10-15 20:35:02,Memory,Usage spike,High,34.9
+2025-10-15 20:40:02,CPU,Restart,Medium,51.48
+2025-10-15 20:45:02,Disk,Failure,Critical,69.65
+2025-10-15 20:50:02,Disk,Restart,Medium,67.58
+2025-10-15 20:55:02,Disk,Usage spike,Low,34.48
+2025-10-15 21:00:02,Disk,Usage spike,Critical,73.84
+2025-10-15 21:05:02,Disk,Usage spike,Medium,65.26
+2025-10-15 21:10:02,Network,Usage spike,Medium,75.71
+2025-10-15 21:15:02,GPU,Usage spike,Critical,94.72
+2025-10-15 21:20:02,GPU,Restart,Low,71.78
+2025-10-15 21:25:02,GPU,Failure,Critical,28.28
+2025-10-15 21:30:02,Network,Failure,Medium,84.56
+2025-10-15 21:35:02,Memory,Overheating,High,49.84
+2025-10-15 21:40:02,GPU,Failure,Medium,49.81
+2025-10-15 21:45:02,CPU,Update,Low,36.36
+2025-10-15 21:50:02,Memory,Update,Low,52.9
+2025-10-15 21:55:02,Disk,Restart,Critical,97.87
+2025-10-15 22:00:02,Disk,Overheating,High,87.24
+2025-10-15 22:05:02,Disk,Overheating,Medium,94.16
+2025-10-15 22:10:02,Memory,Restart,Low,48.69
+2025-10-15 22:15:02,CPU,Failure,Critical,36.58
+2025-10-15 22:20:02,GPU,Update,Medium,35.24
+2025-10-15 22:25:02,Memory,Restart,Critical,80.17
+2025-10-15 22:30:02,Disk,Failure,High,77.62
+2025-10-15 22:35:02,Memory,Restart,High,93.59
+2025-10-15 22:40:02,GPU,Overheating,High,33.53
+2025-10-15 22:45:02,Memory,Update,Medium,79.95
+2025-10-15 22:50:02,Disk,Overheating,High,42.6
+2025-10-15 22:55:02,Network,Usage spike,High,37.23
+2025-10-15 23:00:02,Memory,Update,Critical,58.38
+2025-10-15 23:05:02,Disk,Restart,High,84.72
+2025-10-15 23:10:02,CPU,Overheating,High,93.84
+2025-10-15 23:15:02,CPU,Usage spike,Medium,59.98
+2025-10-15 23:20:02,GPU,Failure,Critical,28.93
+2025-10-15 23:25:02,GPU,Usage spike,High,76.17
+2025-10-15 23:30:02,GPU,Usage spike,Critical,86.29
+2025-10-15 23:35:02,Disk,Restart,Medium,22.48
+2025-10-15 23:40:02,Disk,Update,Medium,67.51
+2025-10-15 23:45:02,Disk,Overheating,High,21.97
+2025-10-15 23:50:02,GPU,Failure,Critical,25.72
+2025-10-15 23:55:02,CPU,Update,Low,54.54
+2025-10-16 00:00:02,Memory,Restart,Low,32.13
+2025-10-16 00:05:02,Network,Overheating,High,72.79
+2025-10-16 00:10:02,Disk,Failure,Critical,44.6
+2025-10-16 00:15:02,Memory,Restart,Critical,66.56
+2025-10-16 00:20:02,Network,Overheating,Critical,55.71
+2025-10-16 00:25:02,Disk,Usage spike,Medium,53.69
+2025-10-16 00:30:02,Disk,Usage spike,Critical,89.75
+2025-10-16 00:35:02,Memory,Overheating,Critical,30.46
+2025-10-16 00:40:02,Network,Restart,Critical,84.18
+2025-10-16 00:45:02,CPU,Failure,High,45.41
+2025-10-16 00:50:02,Disk,Restart,Medium,80.11
+2025-10-16 00:55:02,GPU,Failure,Medium,38.52
+2025-10-16 01:00:02,Disk,Usage spike,Low,32.29
+2025-10-16 01:05:02,Memory,Restart,High,93.58
+2025-10-16 01:10:02,Memory,Overheating,Critical,22.58
+2025-10-16 01:15:02,Network,Update,High,51.47
+2025-10-16 01:20:02,Disk,Update,Critical,49.43
+2025-10-16 01:25:02,Memory,Overheating,High,95.12
+2025-10-16 01:30:02,Network,Usage spike,Low,82.09
+2025-10-16 01:35:02,Disk,Usage spike,Critical,87.83
+2025-10-16 01:40:02,Network,Restart,Medium,71.31
+2025-10-16 01:45:02,CPU,Update,Low,22.64
+2025-10-16 01:50:02,Network,Overheating,Critical,98.7
+2025-10-16 01:55:02,GPU,Usage spike,High,62.87
+2025-10-16 02:00:02,Disk,Overheating,Critical,48.27
+2025-10-16 02:05:02,CPU,Failure,High,35.18
+2025-10-16 02:10:02,Memory,Failure,High,77.55
+2025-10-16 02:15:02,Memory,Overheating,Critical,90.86
+2025-10-16 02:20:02,Network,Failure,Low,38.45
+2025-10-16 02:25:02,Network,Usage spike,High,48.99
+2025-10-16 02:30:02,Memory,Usage spike,Medium,63.83
+2025-10-16 02:35:02,Disk,Usage spike,Critical,62.02
+2025-10-16 02:40:02,CPU,Restart,Critical,33.86
+2025-10-16 02:45:02,GPU,Failure,High,55.35
+2025-10-16 02:50:02,Network,Overheating,High,76.31
+2025-10-16 02:55:02,CPU,Usage spike,Medium,27.46
+2025-10-16 03:00:02,Memory,Failure,Medium,26.12
+2025-10-16 03:05:02,Network,Update,High,29.96
+2025-10-16 03:10:02,Memory,Overheating,Medium,20.4
+2025-10-16 03:15:02,GPU,Usage spike,High,66.96
+2025-10-16 03:20:02,Network,Update,Critical,32.53
+2025-10-16 03:25:02,GPU,Failure,Critical,40.38
+2025-10-16 03:30:02,Memory,Overheating,Critical,72.13
+2025-10-16 03:35:02,CPU,Restart,High,58.15
+2025-10-16 03:40:02,Disk,Overheating,Low,68.1
+2025-10-16 03:45:02,Memory,Restart,Medium,55.35
+2025-10-16 03:50:02,GPU,Overheating,Low,72.37
+2025-10-16 03:55:02,Network,Usage spike,High,86.93
+2025-10-16 04:00:02,Disk,Usage spike,Medium,23.54
+2025-10-16 04:05:02,Memory,Restart,Low,25.63
+2025-10-16 04:10:02,GPU,Update,Medium,71.87
+2025-10-16 04:15:02,GPU,Restart,Critical,62.03
+2025-10-16 04:20:02,GPU,Restart,Medium,48.23
+2025-10-16 04:25:02,Network,Restart,High,70.83
+2025-10-16 04:30:02,CPU,Usage spike,Low,69.98
+2025-10-16 04:35:02,Memory,Failure,High,33.37
+2025-10-16 04:40:02,Network,Usage spike,Medium,48.92
+2025-10-16 04:45:02,Memory,Overheating,Medium,24.76
+2025-10-16 04:50:02,Disk,Failure,Medium,62.33
+2025-10-16 04:55:02,Memory,Restart,High,59.46
+2025-10-16 05:00:02,CPU,Usage spike,Medium,22.47
+2025-10-16 05:05:02,GPU,Overheating,Critical,93.13
+2025-10-16 05:10:02,Network,Restart,High,58.2
+2025-10-16 05:15:02,Memory,Overheating,Critical,89.63
+2025-10-16 05:20:02,GPU,Overheating,Medium,76.93
+2025-10-16 05:25:02,Memory,Overheating,Medium,55.94
+2025-10-16 05:30:02,Disk,Restart,Medium,46.54
+2025-10-16 05:35:02,Network,Failure,High,24.94
+2025-10-16 05:40:02,GPU,Update,Medium,89.58
+2025-10-16 05:45:02,CPU,Restart,High,73.57
+2025-10-16 05:50:02,Disk,Failure,Critical,25.44
+2025-10-16 05:55:02,Network,Usage spike,High,93.8
+2025-10-16 06:00:02,Memory,Overheating,Critical,66.48
+2025-10-16 06:05:02,GPU,Usage spike,High,40.79
+2025-10-16 06:10:02,Memory,Restart,High,81.9
+2025-10-16 06:15:02,GPU,Usage spike,Critical,55.54
+2025-10-16 06:20:02,Network,Update,Critical,42.42
+2025-10-16 06:25:02,Memory,Overheating,Low,40.11
+2025-10-16 06:30:02,GPU,Failure,Medium,62.1
+2025-10-16 06:35:02,Network,Failure,High,87.72
+2025-10-16 06:40:02,Memory,Failure,Low,58.15
+2025-10-16 06:45:02,CPU,Update,Medium,81.17
+2025-10-16 06:50:02,Network,Overheating,High,99.25
+2025-10-16 06:55:02,GPU,Restart,High,53.2
+2025-10-16 07:00:02,Memory,Usage spike,Low,88.15
+2025-10-16 07:05:02,Disk,Overheating,Critical,94.77
+2025-10-16 07:10:02,GPU,Restart,Critical,98.66
+2025-10-16 07:15:02,GPU,Failure,High,23.43
+2025-10-16 07:20:02,GPU,Restart,Medium,44.24
+2025-10-16 07:25:02,Memory,Failure,Medium,35.59
+2025-10-16 07:30:02,GPU,Usage spike,Critical,65.45
+2025-10-16 07:35:02,Disk,Failure,Low,86.72
+2025-10-16 07:40:02,CPU,Overheating,Medium,23.56
+2025-10-16 07:45:02,Disk,Overheating,Critical,76.46
+2025-10-16 07:50:02,CPU,Failure,Critical,61.2
+2025-10-16 07:55:02,GPU,Usage spike,Critical,76.3
+2025-10-16 08:00:02,CPU,Usage spike,Critical,38.13
+2025-10-16 08:05:02,Network,Usage spike,Medium,36.6
+2025-10-16 08:10:02,Network,Overheating,Critical,46.12
+2025-10-16 08:15:02,Memory,Restart,Low,29.37
+2025-10-16 08:20:02,Disk,Failure,Critical,91.26
+2025-10-16 08:25:02,Memory,Overheating,Critical,47.43
+2025-10-16 08:30:02,Disk,Restart,Medium,41.71
+2025-10-16 08:35:02,Memory,Update,High,82.46
+2025-10-16 08:40:02,Network,Usage spike,Low,52.65
+2025-10-16 08:45:02,Disk,Overheating,High,65.42
+2025-10-16 08:50:02,GPU,Failure,High,40.51
+2025-10-16 08:55:02,GPU,Overheating,High,83.95
+2025-10-16 09:00:02,Network,Overheating,High,69.03
+2025-10-16 09:05:02,CPU,Usage spike,Critical,33.42
+2025-10-16 09:10:02,Disk,Failure,Low,22.46
+2025-10-16 09:15:02,Network,Usage spike,Medium,75.19
+2025-10-16 09:20:02,GPU,Usage spike,Low,65.31
+2025-10-16 09:25:02,Memory,Update,High,90.99
+2025-10-16 09:30:02,GPU,Overheating,High,80.82
+2025-10-16 09:35:02,CPU,Restart,Medium,88.57
+2025-10-16 09:40:02,Memory,Overheating,High,33.51
+2025-10-16 09:45:02,Memory,Update,High,91.69
+2025-10-16 09:50:02,CPU,Restart,High,37.24
+2025-10-16 09:55:02,Network,Failure,Low,30.95
+2025-10-16 10:00:02,Network,Overheating,Critical,91.24
+2025-10-16 10:05:02,Memory,Restart,Critical,39.07
+2025-10-16 10:10:02,Memory,Restart,Critical,76.7
+2025-10-16 10:15:02,Network,Usage spike,Critical,46.62
+2025-10-16 10:20:02,GPU,Overheating,Low,88.35
+2025-10-16 10:25:02,Memory,Overheating,Low,22.2
+2025-10-16 10:30:02,GPU,Update,Critical,61.69
+2025-10-16 10:35:02,Network,Overheating,Medium,29.82
+2025-10-16 10:40:02,CPU,Usage spike,Critical,54.18
+2025-10-16 10:45:02,Network,Update,Medium,39.98
+2025-10-16 10:50:02,Network,Restart,Low,81.29
+2025-10-16 10:55:02,Disk,Usage spike,Medium,32.65
+2025-10-16 11:00:02,Memory,Restart,Medium,57.78
+2025-10-16 11:05:02,Network,Update,Medium,34.81
+2025-10-16 11:10:02,Disk,Restart,Critical,45.01
+2025-10-16 11:15:02,GPU,Overheating,Critical,34.74
+2025-10-16 11:20:02,CPU,Overheating,High,86.47
+2025-10-16 11:25:02,Disk,Usage spike,High,60.66
+2025-10-16 11:30:02,Disk,Restart,Low,49.72
+2025-10-16 11:35:02,CPU,Usage spike,Medium,24.36
+2025-10-16 11:40:02,CPU,Update,Critical,39.09
+2025-10-16 11:45:02,GPU,Overheating,High,66.18
+2025-10-16 11:50:02,GPU,Failure,Medium,39.01
+2025-10-16 11:55:02,GPU,Failure,Low,31.72
+2025-10-16 12:00:02,Disk,Overheating,High,68.95
+2025-10-16 12:05:02,Disk,Update,High,77.16
+2025-10-16 12:10:02,Memory,Restart,Critical,62.66
+2025-10-16 12:15:02,GPU,Failure,High,63.03
+2025-10-16 12:20:02,Disk,Restart,Low,23.69
+2025-10-16 12:25:02,CPU,Restart,Critical,92.47
+2025-10-16 12:30:02,Network,Usage spike,High,63.25
+2025-10-16 12:35:02,Network,Overheating,Medium,28.02
+2025-10-16 12:40:02,Network,Restart,Critical,23.59
+2025-10-16 12:45:02,Network,Usage spike,Critical,49.62
+2025-10-16 12:50:02,Memory,Overheating,High,45.76
+2025-10-16 12:55:02,Disk,Restart,Low,52.18
+2025-10-16 13:00:02,GPU,Failure,Medium,54.46
+2025-10-16 13:05:02,CPU,Overheating,Medium,82.79
+2025-10-16 13:10:02,Disk,Restart,High,74.09
+2025-10-16 13:15:02,Network,Restart,Critical,85.83
+2025-10-16 13:20:02,Disk,Overheating,Medium,93.01
+2025-10-16 13:25:02,Network,Failure,Low,22.5
+2025-10-16 13:30:02,Memory,Restart,Low,83.41
+2025-10-16 13:35:02,Memory,Overheating,Medium,99.05
+2025-10-16 13:40:02,Disk,Update,Critical,63.37
+2025-10-16 13:45:02,Disk,Overheating,Low,73.31
+2025-10-16 13:50:02,CPU,Update,Low,46.81
+2025-10-16 13:55:02,Memory,Restart,Medium,59.43
+2025-10-16 14:00:02,Network,Usage spike,Low,92.04
+2025-10-16 14:05:02,GPU,Restart,Critical,91.22
+2025-10-16 14:10:02,Memory,Usage spike,Medium,54.47
+2025-10-16 14:15:02,Disk,Update,High,73.15
+2025-10-16 14:20:02,GPU,Overheating,High,89.71
+2025-10-16 14:25:02,Disk,Update,Low,63.39
+2025-10-16 14:30:02,Memory,Restart,High,53.88
+2025-10-16 14:35:02,Disk,Overheating,Low,22.82
+2025-10-16 14:40:02,CPU,Update,Critical,82.69
+2025-10-16 14:45:02,GPU,Restart,Low,96.86
+2025-10-16 14:50:02,GPU,Update,Critical,27.21
+2025-10-16 14:55:02,Disk,Update,Critical,53.44
+2025-10-16 15:00:02,GPU,Update,Critical,28.06
+2025-10-16 15:05:02,CPU,Update,Low,56.0
+2025-10-16 15:10:02,Disk,Overheating,Medium,96.07
+2025-10-16 15:15:02,Network,Update,Medium,35.42
+2025-10-16 15:20:02,Network,Usage spike,Low,90.07
+2025-10-16 15:25:02,Network,Restart,Critical,64.53
+2025-10-16 15:30:02,Network,Restart,Medium,65.26
+2025-10-16 15:35:02,GPU,Update,Low,32.79
+2025-10-16 15:40:02,Disk,Restart,Medium,51.93
+2025-10-16 15:45:02,Disk,Restart,Critical,88.08
+2025-10-16 15:50:02,Memory,Usage spike,Low,74.95
+2025-10-16 15:55:02,Network,Restart,Medium,74.21
+2025-10-16 16:00:02,Memory,Failure,High,72.01
+2025-10-16 16:05:02,GPU,Usage spike,Medium,51.87
+2025-10-16 16:10:02,Memory,Overheating,Low,86.84
+2025-10-16 16:15:02,Disk,Update,High,43.08
+2025-10-16 16:20:02,GPU,Update,Medium,27.32
+2025-10-16 16:25:02,Network,Restart,Low,95.42
+2025-10-16 16:30:02,Disk,Restart,Low,89.7
+2025-10-16 16:35:02,CPU,Failure,Low,96.47
+2025-10-16 16:40:02,Memory,Failure,Critical,74.95
+2025-10-16 16:45:02,Network,Usage spike,Critical,87.68
+2025-10-16 16:50:02,CPU,Failure,Low,41.22
+2025-10-16 16:55:02,CPU,Usage spike,Low,67.91
+2025-10-16 17:00:02,Memory,Overheating,High,61.96
+2025-10-16 17:05:02,Disk,Failure,Low,87.29
+2025-10-16 17:10:02,Network,Failure,Low,91.39
+2025-10-16 17:15:02,Disk,Overheating,Critical,32.19
+2025-10-16 17:20:02,Network,Restart,Low,86.72
+2025-10-16 17:25:02,Memory,Usage spike,Critical,83.31
+2025-10-16 17:30:02,Memory,Update,Critical,34.31
+2025-10-16 17:35:02,GPU,Overheating,Critical,23.51
+2025-10-16 17:40:02,Disk,Restart,Critical,93.79
+2025-10-16 17:45:02,Memory,Failure,Critical,76.89
+2025-10-16 17:50:02,Disk,Usage spike,High,81.27
+2025-10-16 17:55:02,GPU,Usage spike,High,79.78
+2025-10-16 18:00:02,CPU,Overheating,Critical,31.67
+2025-10-16 18:05:02,Network,Overheating,High,45.28
+2025-10-16 18:10:02,Disk,Usage spike,Critical,23.41
+2025-10-16 18:15:02,GPU,Overheating,Low,94.88
+2025-10-16 18:20:02,CPU,Usage spike,High,49.9
+2025-10-16 18:25:02,GPU,Update,High,85.36
+2025-10-16 18:30:02,Network,Update,Medium,37.78
+2025-10-16 18:35:02,Network,Update,Low,41.82
+2025-10-16 18:40:02,Memory,Usage spike,Critical,40.67
+2025-10-16 18:45:02,GPU,Overheating,High,69.45
+2025-10-16 18:50:02,CPU,Failure,Low,75.33
+2025-10-16 18:55:02,Memory,Usage spike,Critical,58.75
+2025-10-16 19:00:02,CPU,Failure,High,53.71
+2025-10-16 19:05:02,CPU,Update,Critical,31.23
+2025-10-16 19:10:02,Disk,Restart,Low,55.51
+2025-10-16 19:15:02,Disk,Failure,Critical,68.14
+2025-10-16 19:20:02,GPU,Failure,Medium,75.8
+2025-10-16 19:25:02,GPU,Overheating,Critical,61.36
+2025-10-16 19:30:02,Memory,Failure,High,52.84
+2025-10-16 19:35:02,GPU,Restart,High,29.91
+2025-10-16 19:40:02,Network,Restart,Medium,73.94
+2025-10-16 19:45:02,Disk,Usage spike,High,89.08
+2025-10-16 19:50:02,Network,Usage spike,Critical,62.58
+2025-10-16 19:55:02,GPU,Failure,High,66.27
+2025-10-16 20:00:02,Memory,Update,High,71.81
+2025-10-16 20:05:02,Disk,Usage spike,Low,24.42
+2025-10-16 20:10:02,CPU,Overheating,Critical,73.51
+2025-10-16 20:15:02,Network,Update,Medium,50.38
+2025-10-16 20:20:02,CPU,Update,Critical,26.14
+2025-10-16 20:25:02,Memory,Restart,Medium,33.14
+2025-10-16 20:30:02,CPU,Restart,Medium,89.67
+2025-10-16 20:35:02,Network,Usage spike,Medium,68.41
+2025-10-16 20:40:02,GPU,Update,High,95.25
+2025-10-16 20:45:02,Network,Usage spike,Critical,94.15
+2025-10-16 20:50:02,Memory,Restart,High,93.79
+2025-10-16 20:55:02,Network,Overheating,High,29.47
+2025-10-16 21:00:02,Disk,Overheating,High,99.84
+2025-10-16 21:05:02,GPU,Failure,Critical,34.79
+2025-10-16 21:10:02,Disk,Overheating,Critical,72.37
+2025-10-16 21:15:02,CPU,Overheating,Medium,38.94
+2025-10-16 21:20:02,GPU,Update,Critical,52.23
+2025-10-16 21:25:02,Disk,Usage spike,Low,33.49
+2025-10-16 21:30:02,Network,Failure,Low,59.49
+2025-10-16 21:35:02,Disk,Failure,Critical,79.15
+2025-10-16 21:40:02,Memory,Overheating,Medium,40.9
+2025-10-16 21:45:02,GPU,Restart,High,23.8
+2025-10-16 21:50:02,Disk,Usage spike,High,77.0
+2025-10-16 21:55:02,CPU,Usage spike,Medium,33.96
+2025-10-16 22:00:02,Network,Usage spike,Critical,32.38
+2025-10-16 22:05:02,Network,Restart,Critical,74.67
+2025-10-16 22:10:02,GPU,Update,Critical,23.57
+2025-10-16 22:15:02,GPU,Usage spike,High,92.48
+2025-10-16 22:20:02,Disk,Usage spike,Critical,30.32
+2025-10-16 22:25:02,Memory,Failure,Critical,30.7
+2025-10-16 22:30:02,Disk,Restart,High,73.1
+2025-10-16 22:35:02,CPU,Failure,Low,51.84
+2025-10-16 22:40:02,Memory,Overheating,Low,78.47
+2025-10-16 22:45:02,CPU,Failure,Critical,69.22
+2025-10-16 22:50:02,GPU,Overheating,Critical,22.35
+2025-10-16 22:55:02,Memory,Failure,Critical,36.25
+2025-10-16 23:00:02,Network,Failure,Critical,96.38
+2025-10-16 23:05:02,Memory,Usage spike,Critical,51.72
+2025-10-16 23:10:02,Network,Usage spike,High,42.27
+2025-10-16 23:15:02,Memory,Failure,Critical,86.47
+2025-10-16 23:20:02,Memory,Update,Medium,98.65
+2025-10-16 23:25:02,GPU,Restart,Medium,44.02
+2025-10-16 23:30:02,GPU,Overheating,High,68.94
+2025-10-16 23:35:02,Memory,Usage spike,Critical,92.27
+2025-10-16 23:40:02,CPU,Overheating,Medium,79.78
+2025-10-16 23:45:02,Disk,Overheating,Low,54.68
+2025-10-16 23:50:02,Disk,Restart,Low,36.71
+2025-10-16 23:55:02,Memory,Usage spike,Low,85.7
+2025-10-17 00:00:02,GPU,Overheating,Medium,33.43
+2025-10-17 00:05:02,Disk,Failure,Medium,96.24
+2025-10-17 00:10:02,Memory,Update,Low,39.22
+2025-10-17 00:15:02,Network,Update,High,96.73
+2025-10-17 00:20:02,Network,Update,Low,99.41
+2025-10-17 00:25:02,Disk,Restart,High,31.77
+2025-10-17 00:30:02,Network,Update,Medium,82.35
+2025-10-17 00:35:02,Memory,Failure,Medium,30.68
+2025-10-17 00:40:02,CPU,Usage spike,High,62.99
+2025-10-17 00:45:02,Disk,Overheating,Low,27.86
+2025-10-17 00:50:02,GPU,Restart,High,45.68
+2025-10-17 00:55:02,CPU,Update,High,68.68
+2025-10-17 01:00:02,GPU,Failure,Medium,65.72
+2025-10-17 01:05:02,GPU,Usage spike,Low,89.23
+2025-10-17 01:10:02,Memory,Failure,Medium,39.7
+2025-10-17 01:15:02,GPU,Restart,Critical,71.4
+2025-10-17 01:20:02,CPU,Usage spike,Medium,24.84
+2025-10-17 01:25:02,Network,Update,Low,72.46
+2025-10-17 01:30:02,Network,Usage spike,Low,77.08
+2025-10-17 01:35:02,Network,Overheating,Low,93.63
+2025-10-17 01:40:02,Network,Update,Low,41.78
+2025-10-17 01:45:02,Network,Usage spike,Critical,90.5
+2025-10-17 01:50:02,Memory,Restart,Medium,21.18
+2025-10-17 01:55:02,CPU,Restart,Low,33.54
+2025-10-17 02:00:02,GPU,Failure,Medium,84.88
+2025-10-17 02:05:02,Memory,Usage spike,High,50.55
+2025-10-17 02:10:02,GPU,Failure,Critical,91.81
+2025-10-17 02:15:02,CPU,Usage spike,High,69.56
+2025-10-17 02:20:02,Memory,Usage spike,Critical,50.65
+2025-10-17 02:25:02,Disk,Failure,High,98.68
+2025-10-17 02:30:02,CPU,Update,High,95.69
+2025-10-17 02:35:02,CPU,Update,Medium,53.3
+2025-10-17 02:40:02,Disk,Overheating,High,79.29
+2025-10-17 02:45:02,Memory,Overheating,Critical,38.64
