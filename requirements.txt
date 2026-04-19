@@ -1,29 +1,8 @@
-# Core backend & APIs
-fastapi
-uvicorn
-requests
-
-# Data processing
+streamlit
 pandas
 numpy
 scikit-learn
-
-# ML/DL models
-torch
-tensorflow
-
-# Database & logging
-pymongo
-elasticsearch
-kafka-python
-
-# Security Tools APIs
-shodan
-python-nmap
-
-# Visualization (for dashboard)
+matplotlib
+seaborn
 plotly
-streamlit
-
-# Misc
-colorama
+requests
